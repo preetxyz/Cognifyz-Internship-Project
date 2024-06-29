@@ -22,18 +22,16 @@ To run this project, you need to have Python and some libraries installed. You c
 
 pip install -r requirements.txt
 The requirements.txt file should include the following libraries:
-
 pandas
 numpy
 matplotlib
 seaborn
 jupyter
 
-git clone https://github.com/yourusername/restaurant-eda.git
-Navigate to the project directory:
 
 Open and run the notebook Cognifyz.ipynb to perform the analysis.
-EDA Process
+
+##EDA Process
 The EDA process includes the following steps:
 
 Data Loading: Load the dataset into a pandas DataFrame.
@@ -47,3 +45,10 @@ Distribution of restaurant ratings
 Relationship between the number of reviews and ratings
 Popular cuisines and locations
 Other relevant metrics and patterns
+
+License
+This project is licensed under the MIT License. 
+
+##Attribution
+This project was developed as part of an internship at Cognifyz Technologies. Special thanks to the Cognifyz Technologies team for their support and guidance.
+
